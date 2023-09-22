@@ -1,0 +1,3 @@
+org/example/SimpleStringSchema.class
+org/example/KafkaMessageReader.class
+org/example/KafkaMessageReader$S3SinkFunction.class
